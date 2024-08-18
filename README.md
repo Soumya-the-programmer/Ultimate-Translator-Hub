@@ -58,8 +58,19 @@ To run this application, you need to have Python installed on your machine along
 - **Help Menu**: Contains options to rate the application and view information about the developer.
 
 ## Screenshots
+![Screenshot 2024-08-18 190935](https://github.com/user-attachments/assets/8312b4de-65d1-4d57-a9e5-66ed4d12cfe6)
 
+![Screenshot 2024-08-18 190957](https://github.com/user-attachments/assets/dc905fb3-758a-440b-a2dd-388704911909)
 
+![Screenshot 2024-08-18 191136](https://github.com/user-attachments/assets/c42cbf45-fecc-497a-951b-57fcfdc3a9d6)
+
+![Screenshot 2024-08-18 191210](https://github.com/user-attachments/assets/a9c5070c-27cb-42a1-955b-15b0b797a25f)
+
+![Screenshot 2024-08-18 191240](https://github.com/user-attachments/assets/14380925-5818-40ea-b087-fac5aff57720)
+
+![Screenshot 2024-08-18 191303](https://github.com/user-attachments/assets/5a211719-5e86-4ba4-a3e7-e0709a00a5f8)
+![Screenshot 2024-08-18 191317](https://github.com/user-attachments/assets/5f9c2581-8a31-4d8c-a523-e7a65bbf623c)
+![Screenshot 2024-08-18 191333](https://github.com/user-attachments/assets/c4c31a3a-58f1-4e39-bdf7-c683f0847fe1)
 
 ## Troubleshooting
 
